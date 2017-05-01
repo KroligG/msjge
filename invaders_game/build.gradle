@@ -1,0 +1,5 @@
+dependencies {
+    compile project(':engine_core')
+    compile project(':platform_awt')
+    compile 'com.google.guava:guava:21.0'
+}

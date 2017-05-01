@@ -1,0 +1,5 @@
+rootProject.name = 'mjge'
+
+include 'engine_core', 'invaders_game'
+include 'platform_awt'
+
