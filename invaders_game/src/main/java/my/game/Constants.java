@@ -1,4 +1,4 @@
-package game;
+package my.game;
 
 public class Constants {
     public static final int ALIEN_ROWS = 5;

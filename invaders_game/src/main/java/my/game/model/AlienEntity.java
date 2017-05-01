@@ -1,7 +1,7 @@
-package game.model;
+package my.game.model;
 
-import game.Constants;
-import game.state.InvadersState;
+import my.game.Constants;
+import my.game.state.InvadersState;
 import my.engine.display.Sprite;
 import my.engine.physics.Entity;
 

@@ -1,6 +1,6 @@
-package game;
+package my.game;
 
-import game.state.MenuState;
+import my.game.state.MenuState;
 import my.engine.config.Config;
 import my.engine.core.Engine;
 import my.engine.platform.Platform;

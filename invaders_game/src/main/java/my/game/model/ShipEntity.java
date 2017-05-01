@@ -1,9 +1,9 @@
-package game.model;
+package my.game.model;
 
-import game.Constants;
+import my.game.Constants;
 import my.engine.display.Sprite;
 import my.engine.physics.Entity;
-import game.state.InvadersState;
+import my.game.state.InvadersState;
 
 public class ShipEntity extends Entity {
     private InvadersState game;

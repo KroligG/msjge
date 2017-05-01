@@ -1,13 +1,13 @@
-package game.state;
+package my.game.state;
 
 import java.awt.event.KeyEvent;
 import java.util.HashSet;
 import java.util.Set;
 
-import game.Constants;
-import game.model.AlienEntity;
-import game.model.ShipEntity;
-import game.model.ShotEntity;
+import my.game.Constants;
+import my.game.model.AlienEntity;
+import my.game.model.ShipEntity;
+import my.game.model.ShotEntity;
 import my.engine.core.Engine;
 import my.engine.display.Canvas;
 import my.engine.display.Sprite;
